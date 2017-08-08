@@ -1,0 +1,1 @@
+Hello, my name is Matt and I'm an engineer student. I'm currently working on Mobile Robotics (mostly programming) and I've created this blog with hope to share with you my achievements in learning some cool stuff and features, projects I'm developing at the moment and much more. The closest goal for me is to improve my skills in machine learning applied to robotics.
