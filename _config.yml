@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Matt Rozanov"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Engineer student, working on Mobile Robotics and programming, interested in ML in Robotics"
+  avatar           : "/assets/images/author.jpg"
+  bio              : "Engineer student.  Mobile Robotics.  ML in Robotics.  Programming and CS."
   location         : "Minsk, Belarus"
   email            : "matveyrozanov@gmail.com"
   uri              :
@@ -242,6 +242,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
